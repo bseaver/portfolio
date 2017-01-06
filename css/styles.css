@@ -1,7 +1,14 @@
+/* general image styling */
 img {
   width: 100%;
 }
 
+/* jumbotron styling */
 .jumbotron h2 {
   text-align: center;
+  margin-bottom: 1%;
+}
+
+.jumbotron .well {
+  margin-top: 1%;
 }
