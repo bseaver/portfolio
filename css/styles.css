@@ -3,6 +3,13 @@ img {
   width: 100%;
 }
 
+/* special letter spacing */
+.apart-styling {
+  font-weight: bolder;
+  letter-spacing: 1em;
+  font-size: 2em;
+}
+
 /* jumbotron styling */
 .jumbotron h2 {
   text-align: center;
