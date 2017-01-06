@@ -13,6 +13,7 @@ Clone this repository.  Open index.html.
 ## Technology Used
 * HTML
 * CSS
+* Bootstrap
 * Atom IDE
 * git
 * GitHub
