@@ -10,6 +10,9 @@ It is intended to be a viable way to show one's profile and selected projects on
 ## Setup
 Clone this repository.  Open index.html.
 
+## See this page on GitHub.io
+[https://bseaver.github.io/portfolio/](https://bseaver.github.io/portfolio/)
+
 ## Technology Used
 * HTML
 * CSS
